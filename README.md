@@ -3,6 +3,9 @@
 
 [![badge](https://img.shields.io/badge/license-Apache-brightgreen)](https://opensource.org/licenses/Apache)<br />
 
+![alt deployed app screenshot](https://chuckiecodes.github.io/code-quiz/assets/images/SS-2024-02-06-AT-10.58.37AM.png)
+<br />
+
 ## Description
 A web based app that let's user to add notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
