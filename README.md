@@ -3,7 +3,7 @@
 
 [![badge](https://img.shields.io/badge/license-Apache-brightgreen)](https://opensource.org/licenses/Apache)<br />
 
-![alt deployed app screenshot](https://chuckiecodes.github.io/code-quiz/assets/images/SS-2024-02-06-AT-10.58.37AM.png)
+![alt deployed app screenshot](https://note-taker-y9ov.onrender.com/assets/images/SS-2024-02-06-AT-10.58.37AM.png)
 <br />
 
 ## Description
